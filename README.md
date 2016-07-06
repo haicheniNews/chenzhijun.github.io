@@ -1,8 +1,8 @@
 #Hux Blog
 
-###[View Live Hux Blog &rarr;](http://huxpro.github.io)
+###[View Live Zhijun.chen Blog &rarr;](http://chenzhijun.github.io)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://chenzhijun.top/img/blog-desktop.jpg)
 
 
 ### "Page Build Warning" email
